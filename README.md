@@ -5,7 +5,16 @@ programacion orientada a objetos
 
 
 
+
+
+
+
 <img width="386" height="405" alt="image" src="https://github.com/user-attachments/assets/fd8ae348-7c0f-4c26-82c8-1b9ad81be41d" />
+
+
+
+
+
 
 
 
